@@ -19,7 +19,7 @@
 
 ## Overview
 
-CorridorRunner is a **3D perspective corridor runner** game ported from the [R4BB1T FHC](https://github.com) screensaver project. Every frame — the scrolling corridor, the running character, the obstacles — is **rendered mathematically in real time** with no sprite sheets or image assets. The entire game fits in a single 1000-line C++ source file.
+CorridorRunner is a **3D perspective corridor runner** game. Every frame — the scrolling corridor, the running character, the obstacles — is **rendered mathematically in real time** with no sprite sheets or image assets. The entire game fits in a single 1000-line C++ source file.
 
 ### Features
 
@@ -29,7 +29,7 @@ CorridorRunner is a **3D perspective corridor runner** game ported from the [R4B
 - **3 difficulty levels**: Easy, Normal, Hard
 - **Progressive difficulty** — speed increases as you survive longer
 - **High score tracking** persisted across sessions
-- **Pixel-art menu system** with "R4BB1T" logo and game over screen
+- **Pixel-art menu system** with game logo and game over screen
 - **Serial screen mirror** — stream your gameplay to a PC in real time via Python
 
 ---
